@@ -20,8 +20,3 @@ You can reach me via Discord (@YusufYaser#7242).\
 You can also reach me via [email](mailto:me@yusufyaser.xyz)!
 
 I have a [Twitter account](https://twitter.com/RealYusufYaser) too!
-
-## Some boring stuff
-
-You can use my [Sweatcoin link](https://sweatco.in/i/realyusufyaser)!\
-Every 1,000 steps you walk, you get 1 Sweatcoin!
