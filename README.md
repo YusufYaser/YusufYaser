@@ -1,3 +1,5 @@
+<kbd>![image](https://user-images.githubusercontent.com/69477938/169495078-f626f56c-7898-4b95-97cc-4c713cbab140.png)</kbd>
+
 # Hello, I am YusufYaser!
 
 You may know me from many places (most likely from Discord), but you have made your way to my GitHub profile!
