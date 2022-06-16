@@ -21,7 +21,8 @@ I am focused on backend development, and I am a bit decent on frontend developme
 
 You may add me on discord, my username is YusufYaser#7242
 
-[![Email](https://img.shields.io/badge/Email-me%40yusufyaser.xyz-yellowgreen)](mailto:me@yusufyaser.xyz)
+**Email:** me àt yusufyaser dôt xyz
+
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/RealYusufYaser.svg?style=social&label=Follow%20%40RealYusufYaser)](https://twitter.com/RealYusufYaser)
 [![Website](https://img.shields.io/badge/Website-yusufyaser.xyz-red)](https://yusufyaser.xyz)
 [![Discord](https://img.shields.io/badge/Discord-YusufYaser%237242-blue)](https://discord.com/channels/@me)
