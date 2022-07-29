@@ -19,10 +19,6 @@ I am focused on backend development, and I am a bit decent on frontend developme
 
 ![YusufYaser's GitHub stats](https://github-readme-stats.vercel.app/api?username=YusufYaser&show_icons=true&theme=radical)
 
-# Donate
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B17T6LA)
-
 # How do I reach you?
 
 You may add me on discord, my username is YusufYaser#7242
