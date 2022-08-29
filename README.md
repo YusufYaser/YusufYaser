@@ -13,6 +13,16 @@ You can check them out, use them or just see the code and tell me if there is an
 
 I am focused on backend development, and I am a bit decent on frontend development.
 
+# Cool things I've done
+
+## Businesses
+
+| Logo | Company | Description |
+|------|---------|-------------|
+| [![VitezaCloud Logo](https://cdn.viteza.cloud/logo-round.png)](https://viteza.cloud) | VitezaCloud | A host that offers Minecraft servers at a very cheap price, and great performance. It has Intel Core i9-9900K processors at just $1/gb, including a budget plan that runs on AMD Ryzen 5 3600 at just $0.8/gb |
+
+.. and more soon
+
 # Some stats
 
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/YusufYaser)
